@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Private data files
+account
+friendlist
+mydata
+*.bak
